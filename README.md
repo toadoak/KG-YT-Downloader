@@ -1,6 +1,6 @@
 # KG-YT Downloader
 
-![Version](https://img.shields.io/badge/version-1.0.0-red?style=flat-square)
+![Version](https://img.shields.io/badge/version-2.0.0-red?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square&logo=windows)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-yellow?style=flat-square&logo=python)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)

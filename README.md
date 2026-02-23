@@ -83,7 +83,7 @@ This tool is intended for **personal use only**. Please respect content creators
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License
 
 ---
 
